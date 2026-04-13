@@ -66,11 +66,13 @@ results = model.train(data=yaml_path, epochs=50, imgsz=640, batch=16, device=0)
 - YOLO26n
 - YOLO26m
 
+Puedes descargar los pesos entrenados [aquí](https://github.com/benja2030/Modelo-deteccion-de-objetos-Proyecto-de-titulo/releases/tag/v1.0)
+
 Recomiendo entrenar modelos S y M, ya que los N ya estan entrenados.
 
 # Links para otros posibles dataset que se podrian utilizar para entrenar
 
-[Crossroad Camera Dataset - Mobility Aid Users](https://repository.tugraz.at/records/2gat1-pev27)
-[White-Cane Computer Vision Dataset](https://universe.roboflow.com/new-workspace-3cjjl/white-cane)
+- [Crossroad Camera Dataset - Mobility Aid Users](https://repository.tugraz.at/records/2gat1-pev27)
+- [White-Cane Computer Vision Dataset](https://universe.roboflow.com/new-workspace-3cjjl/white-cane)
 
 
